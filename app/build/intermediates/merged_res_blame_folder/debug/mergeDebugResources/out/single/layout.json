@@ -1,7 +1,15 @@
 [
     {
+        "merged": "com.example.project_basic.app-mergeDebugResources-4:/layout/fragment_first.xml",
+        "source": "com.example.project_basic.app-main-7:/layout/fragment_first.xml"
+    },
+    {
         "merged": "com.example.project_basic.app-mergeDebugResources-4:/layout/activity_cart.xml",
         "source": "com.example.project_basic.app-main-7:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.project_basic.app-mergeDebugResources-4:/layout/fragment_second.xml",
+        "source": "com.example.project_basic.app-main-7:/layout/fragment_second.xml"
     },
     {
         "merged": "com.example.project_basic.app-mergeDebugResources-4:/layout/activity_main.xml",
